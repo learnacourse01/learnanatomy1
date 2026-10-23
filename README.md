@@ -1,2 +1,0 @@
-# learnanatomy
-LearnAnatomy is an online study platform built for anatomy students in Nigeria. Browse a growing library of textbooks, lecture notes, handouts and histology slides. Practice with timed MCQs and peer-reviewed essay questions, explore 3D anatomy models, and join discussions with fellow students and lecturers. Start free, or upgrade to LearnAnatomy Plus for ₦1,000 a year to read and download library books, upload your own resources, and create quizzes, essays and threads.
